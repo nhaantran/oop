@@ -1,0 +1,104 @@
+Input
+1 if you want to post normal post
+2 if you want to post picture
+3 if you want to post video
+4 if you want to post advertisement
+0 to end
+1
+Input id, owner, date, caption:
+tranthanhnhan2308
+Tran Thanh Nhan
+23/08/2002
+hello world!
+Input number of likes, views:
+10
+100
+Input
+1 if you want to post normal post
+2 if you want to post picture
+3 if you want to post video
+4 if you want to post advertisement
+0 to end
+2
+Input id, owner, date, caption:
+myhouse1711
+My dad
+20/03/2000
+Great!
+Input number of likes, views:
+200
+230
+Input source: https/tranthanhnhan2308
+Input
+1 if you want to post normal post
+2 if you want to post picture
+3 if you want to post video
+4 if you want to post advertisement
+0 to end
+3
+Input id, owner, date, caption:
+myguitar
+tran thanh nhan
+29/07/2013
+good song
+Input number of likes, views:
+10
+230
+Input source: https/myhouse
+Input time: 102
+Input
+1 if you want to post normal post
+2 if you want to post picture
+3 if you want to post video
+4 if you want to post advertisement
+0 to end
+4
+Input id, owner, date, caption:
+piano
+myselg
+12/03/2019
+for sale
+Input number of likes, views:
+1092
+2390
+Input source: https/hello
+Input time: 10 
+Input customer cost: 10
+Input
+1 if you want to post normal post
+2 if you want to post picture
+3 if you want to post video
+4 if you want to post advertisement
+0 to end
+0
+ID: tranthanhnhan2308
+Owner: Tran Thanh Nhan
+Date: 23/08/2002
+Likes: 10
+Views: 100
+Cost: 300
+ID: myhouse1711
+Owner: My dad
+Date: 20/03/2000
+Likes: 200
+Views: 230
+Cost: 450
+Source: https/tranthanhnhan2308
+        Dang phat video
+ID: myguitar
+Owner: tran thanh nhan
+Date: 29/07/2013
+Likes: 10
+Views: 230
+Cost: 1020
+Source: https/myhouse
+Time: 102
+ID: piano
+Owner: myselg
+Date: 12/03/2019
+Likes: 1092
+Views: 2390
+Cost: 300
+Source: https/hello
+Time: 10
+Customer cost: 10
